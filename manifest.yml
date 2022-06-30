@@ -1,0 +1,9 @@
+applications:
+- name: HospitalBedAvailabilityApp
+  memory: 700M
+  path: target/OnlineBedAvailabilityTracker-0.0.1-SNAPSHOT.jar
+  random-route: false
+  buildpacks:
+  - sap_java_buildpack
+  services:
+  - inkathoninstance

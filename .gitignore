@@ -1,3 +1,41 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+=======
+=======
+>>>>>>> c22edb9a00c822bc01babfb71239c6943cf47f3b
 target/
 pom.xml.tag
 pom.xml.releaseBackup
@@ -9,3 +47,7 @@ buildNumber.properties
 .mvn/timing.properties
 # https://github.com/takari/maven-wrapper#usage-without-binary-jar
 .mvn/wrapper/maven-wrapper.jar
+<<<<<<< HEAD
+>>>>>>> d0b81c91b63a1edfd0add3150ed2311c8550096d
+=======
+>>>>>>> c22edb9a00c822bc01babfb71239c6943cf47f3b
